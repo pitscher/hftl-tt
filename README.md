@@ -1,2 +1,2 @@
 # hftl-tt
-Webseite, welche den Nutzer auffordert, den Namen meiner Hochschule einzugeben, um an den Link der privaten YT-Playlist (mit den aufgenommenen Tele-Tutorien) zu gelangen.
+Little Website which asks the user to enter the name of my university to move on and show recorded online lessons.
